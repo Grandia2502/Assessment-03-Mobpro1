@@ -1,3 +1,31 @@
 <resources>
-    <string name="app_name">Assessment 03</string>
+    <string name="app_name">Personal Gallery</string>
+
+    <string name="gambar">Gambar %1$s</string>
+    <string name="error">Gagal memuat data.. Koneksi error.</string>
+    <string name="try_again">Coba lagi</string>
+    <string name="profil">Profil</string>
+    <string name="tutup">Tutup</string>
+    <string name="logout">Logout</string>
+    <string name="batal">Batal</string>
+    <string name="simpan">Simpan</string>
+    <string name="pilih">Pilih</string>
+    <string name="hapus">Hapus</string>
+    <string name="galeri">Galeri</string>
+    <string name="kamera">Kamera</string>
+
+    <string name="judul">Judul</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="tambah_foto">Tambah Foto</string>
+    <string name="edit_foto">Edit Foto</string>
+    <string name="ganti_foto">Ganti Foto</string>
+    <string name="hapus_foto">Hapus Foto</string>
+    <string name="pilih_foto">Pilih Foto</string>
+    <string name="potong_foto">Potong Foto</string>
+
+    <string name="konfirmasi_hapus">Konfirmasi Hapus</string>
+    <string name="pertanyaan_hapus">Anda yakin ingin menghapus foto ini?</string>
+    <string name="error_credential">Tidak ada kredensial Google. Pastikan perangkat punya akun Google dan coba lagi.</string>
+    <string name="no_photo">Belum ada foto yang dipilih</string>
+    <string name="no_photos_galeri">Belum ada foto di galeri</string>
 </resources>
